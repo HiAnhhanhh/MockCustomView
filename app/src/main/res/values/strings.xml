@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExampleGraphView_pb2</string>
+    <string name="change_progress">Change Progress</string>
+    <string name="_100">100</string>
+</resources>

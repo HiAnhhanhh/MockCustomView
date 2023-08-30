@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color blue
+color purple_200
+color purple_500
+color purple_700
+color red
+color teal_200
+color teal_700
+color white
+dimen circle_margin
+dimen circle_width
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id changeProgressBtn
+id circularProgress
+id graphView
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string _100
+string app_name
+string change_progress
+style Theme.ExampleGraphView_pb2
+xml backup_rules
+xml data_extraction_rules
